@@ -1,0 +1,21 @@
+{
+  "name": "easy",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": " node test.js"
+  },
+  "author": "Aaron Moua",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amoua000/Node-13-easy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/amoua000/Node-13-easy/issues"
+  },
+  "homepage": "https://github.com/amoua000/Node-13-easy#readme",
+  "description": "This is the next challenge"
+}
